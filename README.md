@@ -16,3 +16,4 @@ Stacked_bar_chart: This chart provides us with an understanding of the attrition
 
 Matrix: In this visual we can see the Satisfaction of job role based on total no of employees. We placed JobRole in Rows, Job Satisfaction in columns and Count of attrition on values.
 [E-Commerce Sales Dashboard.pdf](https://github.com/user-attachments/files/15580236/E-Commerce.Sales.Dashboard.pdf)
+![Screenshot 2024-06-05 134953](https://github.com/Aryankumarr/E-Commerce_sales_analysis/assets/147814029/566f8cd2-0aae-4672-b787-865146affa11)
